@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYArticles</string>
+    <string name="action_1day">last 1 days</string>
+    <string name="action_7days">last 7 days</string>
+    <string name="action_30days">last 30 days</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">NY Times Most Popular </string>
+    <string name="detail_fragment_label">Details</string>
+    <string name="connection_error">Connection Problem!</string>
+    <string name="previous">Previous</string>
+    <string name="retry">Retry</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
