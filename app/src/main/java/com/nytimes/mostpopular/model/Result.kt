@@ -28,4 +28,4 @@ data class Result(
     val url: String
 )
     fun Result.toArticleEntity() =
-        ArticleEntity(0, title,media[0].metadata[0].url,abstract)
+        ArticleEntity(0, title,media[0].metadata[0].url,abstract,published_date)

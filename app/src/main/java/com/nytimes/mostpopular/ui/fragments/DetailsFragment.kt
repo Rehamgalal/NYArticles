@@ -33,5 +33,6 @@ class DetailsFragment : Fragment() {
             .into(image)
         title.text = article.title
         abstract_field.text = article.abstractField
+        date_published.text = "Date Published: " +article.published_date
     }
 }
